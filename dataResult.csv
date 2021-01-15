@@ -1,0 +1,6 @@
+Node , All Connected Node with Weigth
+Bobita , Rajjak (1) , Kabori (2) 
+Shabana , Ilias (2) , Kabori (2) 
+Rajjak , Bobita (1) , Kabori (1) , Ilias (1) 
+Kabori , Bobita (2) , Rajjak (1) , Ilias (1) , Shabana (2) 
+Ilias , Shabana (2) , Kabori (1) , Rajjak (1) 
