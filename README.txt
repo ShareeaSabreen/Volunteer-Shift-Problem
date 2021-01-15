@@ -1,4 +1,4 @@
-//Running the program
+﻿//Running the program
 First the csvToJSON.js file need to run, which converts the given 
 volunteer_attendance_data.csv file into csvToJSON.json 
 
@@ -34,5 +34,5 @@ of git (ref- https://github.com/nodejs/node/issues/33741?fbclid=IwAR3ZTzkCGCST9a
 
 
 //what are the limitations of your solution
-- I had the delete the "type": "module" from package.json file manually each time I had the csvToJSON.js file. 
+- I had to delete the "type": "module" from package.json file manually each time I ran the csvToJSON.js file. 
 
